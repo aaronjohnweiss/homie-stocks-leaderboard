@@ -37,7 +37,7 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "⏰ Hourly data update"
           
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/hdeavers1/NEOH_Leaderboard
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/aaronjohnweiss/homie-stocks-leaderboard
           git push origin HEAD
 
 
