@@ -1,0 +1,134 @@
+{
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "PLATINUM 2",
+    "rating": 1883.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 98,
+    "losses": 73
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "COLD#481": {
+    "name": "(the)",
+    "tag": "COLD#481",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SLYG#681": {
+    "name": "jorsh",
+    "tag": "SLYG#681",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "XRCH#596": {
+    "name": "bloodbirds",
+    "tag": "XRCH#596",
+    "rank": "SILVER 2",
+    "rating": 1296.5,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 10,
+    "losses": 10
+  },
+  "BERK#306": {
+    "name": "SKBerk",
+    "tag": "BERK#306",
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 2
+  },
+  "PROV#815": {
+    "name": "provolone",
+    "tag": "PROV#815",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAY#603": {
+    "name": "Chay",
+    "tag": "CHAY#603",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WEAB#855": {
+    "name": "Weabl",
+    "tag": "WEAB#855",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "MELTII#0": {
+    "name": "Meltii",
+    "tag": "MELTII#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "MELM#955": {
+    "name": "Melms",
+    "tag": "MELM#955",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SHAW#905": {
+    "name": "Eshaw",
+    "tag": "SHAW#905",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  }
+}
