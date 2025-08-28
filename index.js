@@ -82,7 +82,7 @@ fetch('data.json')
             <img
               alt="${label}"
               aria-label="${label}"
-              src="/homie-stocks-leaderboard/resources/chars/${character}.png"
+              src="/resources/chars/${character}.png"
             />
             <div class="tooltiptext">${label}</div>
           </div>
@@ -114,7 +114,7 @@ fetch('data.json')
         <img
           alt="${rankStr}"
           aria-label="${rankStr}"
-          src="/homie-stocks-leaderboard/resources/ranks/${rankStr}.svg"
+          src="/resources/ranks/${rankStr}.svg"
         />
         <div class="tooltiptext">${rankStr}</div>
       `;
