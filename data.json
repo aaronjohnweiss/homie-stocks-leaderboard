@@ -57,20 +57,6 @@
     "wins": 10,
     "losses": 10
   },
-  "BERK#306": {
-    "name": "SKBerk",
-    "tag": "BERK#306",
-    "rank": "SILVER 1",
-    "rating": 1138,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 4
-  },
   "PROV#815": {
     "name": "provolone",
     "tag": "PROV#815",
