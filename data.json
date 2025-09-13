@@ -134,12 +134,18 @@
   "CHZ#279": {
     "name": "perc ceo",
     "tag": "CHZ#279",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Falco",
+      "G&W"
+    ],
+    "percentages": [
+      "83.3",
+      "16.7"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 3
   },
   "KEYF#539": {
     "name": "Chief Keyf",
