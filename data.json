@@ -135,17 +135,19 @@
     "name": "troutcooker73",
     "tag": "CHZ#279",
     "rank": "BRONZE 2",
-    "rating": 902.3,
+    "rating": 791.6,
     "characters": [
       "Falco",
-      "G&W"
+      "G&W",
+      "Marth"
     ],
     "percentages": [
-      "93.3",
-      "6.7"
+      "93.1",
+      "3.4",
+      "3.4"
     ],
-    "wins": 1,
-    "losses": 7
+    "wins": 2,
+    "losses": 12
   },
   "KEYF#539": {
     "name": "Chief Keyf",
