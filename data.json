@@ -150,19 +150,5 @@
     ],
     "wins": 4,
     "losses": 14
-  },
-  "KEYF#539": {
-    "name": "Chief Keyf",
-    "tag": "KEYF#539",
-    "rank": "SILVER 3",
-    "rating": 1359.5,
-    "characters": [
-      "G&W"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 2
   }
 }
