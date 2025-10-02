@@ -131,26 +131,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CHZ#279": {
-    "name": "BeNice2urTO",
-    "tag": "CHZ#279",
-    "rank": "BRONZE 2",
-    "rating": 780.6,
-    "characters": [
-      "Falco",
-      "Luigi",
-      "G&W",
-      "Marth"
-    ],
-    "percentages": [
-      "89.2",
-      "5.4",
-      "2.7",
-      "2.7"
-    ],
-    "wins": 4,
-    "losses": 14
-  },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
