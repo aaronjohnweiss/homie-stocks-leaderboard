@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "SILVER 3",
+    "rating": 1325.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 3
+    "wins": 6,
+    "losses": 5
   },
   "SYS#0": {
     "name": "Syspen",
