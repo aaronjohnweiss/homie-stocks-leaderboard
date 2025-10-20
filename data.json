@@ -2,16 +2,12 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1863.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 130,
-    "losses": 107
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
@@ -46,30 +42,22 @@
   "XRCH#596": {
     "name": "bloodbirds",
     "tag": "XRCH#596",
-    "rank": "SILVER 2",
-    "rating": 1296.5,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 10,
-    "losses": 10
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "BERK#306": {
     "name": "SKBerk",
     "tag": "BERK#306",
-    "rank": "SILVER 1",
-    "rating": 1107.9,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 6
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PROV#815": {
     "name": "provolone",
@@ -134,35 +122,21 @@
   "CHZ#279": {
     "name": "ceo of stocks",
     "tag": "CHZ#279",
-    "rank": "BRONZE 2",
-    "rating": 780.6,
-    "characters": [
-      "Falco",
-      "Luigi",
-      "G&W",
-      "Marth"
-    ],
-    "percentages": [
-      "89.2",
-      "5.4",
-      "2.7",
-      "2.7"
-    ],
-    "wins": 4,
-    "losses": 14
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
-    "rank": "GOLD 1",
-    "rating": 1456.9,
-    "characters": [
-      "G&W"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 6,
-    "losses": 2
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   }
 }
