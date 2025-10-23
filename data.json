@@ -126,12 +126,16 @@
   "CHZ#279": {
     "name": "ceo of stocks",
     "tag": "CHZ#279",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 1
   },
   "KEYF#539": {
     "name": "Chief Keyf",
