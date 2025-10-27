@@ -140,11 +140,15 @@
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 1",
+    "rating": 1147.5,
+    "characters": [
+      "G&W"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 3
   }
 }
