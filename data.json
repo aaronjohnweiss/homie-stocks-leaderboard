@@ -127,7 +127,7 @@
     "name": "DUI CEO",
     "tag": "CHZ#279",
     "rank": "PENDING",
-    "rating": 3,
+    "rating": 2,
     "characters": [
       "Falco"
     ],
@@ -135,20 +135,20 @@
       "100.0"
     ],
     "wins": 1,
-    "losses": 1
+    "losses": 2
   },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
     "rank": "SILVER 3",
-    "rating": 1334.2,
+    "rating": 1321.8,
     "characters": [
       "G&W"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 5
+    "wins": 6,
+    "losses": 7
   }
 }
