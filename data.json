@@ -126,16 +126,16 @@
   "CHZ#279": {
     "name": "DUI CEO",
     "tag": "CHZ#279",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "BRONZE 2",
+    "rating": 903.5,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 2
+    "wins": 2,
+    "losses": 9
   },
   "KEYF#539": {
     "name": "Chief Keyf",
