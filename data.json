@@ -96,12 +96,16 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 2
   },
   "MELM#955": {
     "name": "Melms",
