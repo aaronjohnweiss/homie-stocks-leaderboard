@@ -57,6 +57,16 @@
     "wins": 0,
     "losses": 2
   },
+  "BERK#306": {
+    "name": "SKBerk",
+    "tag": "BERK#306",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "PROV#815": {
     "name": "provolone",
     "tag": "PROV#815",
@@ -134,19 +144,5 @@
     ],
     "wins": 4,
     "losses": 9
-  },
-  "KEYF#539": {
-    "name": "Chief Keyf",
-    "tag": "KEYF#539",
-    "rank": "GOLD 1",
-    "rating": 1468.6,
-    "characters": [
-      "G&W"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 14,
-    "losses": 13
   }
 }
