@@ -46,12 +46,16 @@
   "XRCH#596": {
     "name": "bloodbirds",
     "tag": "XRCH#596",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 2
   },
   "BERK#306": {
     "name": "SKBerk",
