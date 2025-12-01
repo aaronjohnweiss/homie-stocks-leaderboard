@@ -131,6 +131,22 @@
     "wins": 0,
     "losses": 0
   },
+  "CHZ#279": {
+    "name": ":3",
+    "tag": "CHZ#279",
+    "rank": "SILVER 1",
+    "rating": 1055.7,
+    "characters": [
+      "Falco",
+      "Fox"
+    ],
+    "percentages": [
+      "96.8",
+      "3.2"
+    ],
+    "wins": 5,
+    "losses": 10
+  },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
