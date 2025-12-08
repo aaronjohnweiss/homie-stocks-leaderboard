@@ -46,8 +46,8 @@
   "XRCH#596": {
     "name": "bloodbirds",
     "tag": "XRCH#596",
-    "rank": "SILVER 2",
-    "rating": 1203.7,
+    "rank": "SILVER 1",
+    "rating": 1163.2,
     "characters": [
       "Marth"
     ],
@@ -55,7 +55,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 3
+    "losses": 5
   },
   "BERK#306": {
     "name": "SKBerk",
