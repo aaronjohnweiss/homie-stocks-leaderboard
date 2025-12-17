@@ -97,20 +97,6 @@
     "wins": 0,
     "losses": 0
   },
-  "MELTII#0": {
-    "name": "Meltii",
-    "tag": "MELTII#0",
-    "rank": "PENDING",
-    "rating": 2,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 3
-  },
   "MELM#955": {
     "name": "Melms",
     "tag": "MELM#955",
