@@ -101,14 +101,14 @@
     "name": "Meltii",
     "tag": "MELTII#0",
     "rank": "PENDING",
-    "rating": 2,
+    "rating": 1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
+    "wins": 1,
     "losses": 3
   },
   "MELM#955": {
