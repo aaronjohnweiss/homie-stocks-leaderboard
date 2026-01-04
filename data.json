@@ -101,7 +101,7 @@
     "name": "Meltii",
     "tag": "MELTII#0",
     "rank": "SILVER 1",
-    "rating": 1140.3,
+    "rating": 1126.9,
     "characters": [
       "Sheik",
       "Marth",
@@ -109,13 +109,13 @@
       "Bowser"
     ],
     "percentages": [
-      "59.4",
-      "25.0",
-      "9.4",
-      "6.3"
+      "61.8",
+      "23.5",
+      "8.8",
+      "5.9"
     ],
     "wins": 6,
-    "losses": 7
+    "losses": 8
   },
   "MELM#955": {
     "name": "Melms",
