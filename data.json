@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "simple machine",
+    "name": "nopic=norespons",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -42,6 +42,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "XRCH#596": {
+    "name": "bloodbirds",
+    "tag": "XRCH#596",
+    "rank": "SILVER 1",
+    "rating": 1163.2,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 5
   },
   "BERK#306": {
     "name": "SKBerk",
