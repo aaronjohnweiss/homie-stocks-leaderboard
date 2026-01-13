@@ -2,8 +2,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1768.5,
+    "rank": "GOLD 3",
+    "rating": 1739.7,
     "characters": [
       "Falcon"
     ],
@@ -11,7 +11,7 @@
       "100.0"
     ],
     "wins": 40,
-    "losses": 27
+    "losses": 29
   },
   "SYS#0": {
     "name": "Syspen",
@@ -136,22 +136,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "CHZ#279": {
-    "name": "9/11 fan 93",
-    "tag": "CHZ#279",
-    "rank": "SILVER 1",
-    "rating": 1055.7,
-    "characters": [
-      "Falco",
-      "Fox"
-    ],
-    "percentages": [
-      "96.8",
-      "3.2"
-    ],
-    "wins": 5,
-    "losses": 10
   },
   "KEYF#539": {
     "name": "Chief Keyf",
