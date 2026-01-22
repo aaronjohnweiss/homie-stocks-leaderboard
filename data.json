@@ -1,18 +1,4 @@
 {
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1825,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 49,
-    "losses": 33
-  },
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
@@ -57,16 +43,6 @@
     "wins": 4,
     "losses": 5
   },
-  "BERK#306": {
-    "name": "SKBerk",
-    "tag": "BERK#306",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PROV#815": {
     "name": "provolone",
     "tag": "PROV#815",
@@ -96,26 +72,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "MELTII#0": {
-    "name": "Meltii",
-    "tag": "MELTII#0",
-    "rank": "SILVER 1",
-    "rating": 1126.9,
-    "characters": [
-      "Sheik",
-      "Marth",
-      "Ganon",
-      "Bowser"
-    ],
-    "percentages": [
-      "61.8",
-      "23.5",
-      "8.8",
-      "5.9"
-    ],
-    "wins": 6,
-    "losses": 8
   },
   "MELM#955": {
     "name": "Melms",
