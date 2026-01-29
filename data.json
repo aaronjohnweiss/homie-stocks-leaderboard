@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1883.6,
+    "rank": "PLATINUM 1",
+    "rating": 1796.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 98,
-    "losses": 73
+    "wins": 50,
+    "losses": 36
   },
   "SYS#0": {
     "name": "Syspen",
@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "jorsh",
+    "name": "tea and bikkie",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -46,30 +46,26 @@
   "XRCH#596": {
     "name": "bloodbirds",
     "tag": "XRCH#596",
-    "rank": "SILVER 2",
-    "rating": 1296.5,
+    "rank": "SILVER 1",
+    "rating": 1163.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 10
+    "wins": 4,
+    "losses": 5
   },
   "BERK#306": {
     "name": "SKBerk",
     "tag": "BERK#306",
-    "rank": "PENDING",
-    "rating": 1,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 2
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PROV#815": {
     "name": "provolone",
@@ -104,12 +100,22 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 1",
+    "rating": 1126.9,
+    "characters": [
+      "Sheik",
+      "Marth",
+      "Ganon",
+      "Bowser"
+    ],
+    "percentages": [
+      "61.8",
+      "23.5",
+      "8.8",
+      "5.9"
+    ],
+    "wins": 6,
+    "losses": 8
   },
   "MELM#955": {
     "name": "Melms",
@@ -132,27 +138,33 @@
     "losses": 0
   },
   "CHZ#279": {
-    "name": "perc ceo",
+    "name": "9/11 fan 93",
     "tag": "CHZ#279",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 1",
+    "rating": 1055.7,
+    "characters": [
+      "Falco",
+      "Fox"
+    ],
+    "percentages": [
+      "96.8",
+      "3.2"
+    ],
+    "wins": 5,
+    "losses": 10
   },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
-    "rank": "SILVER 3",
-    "rating": 1359.5,
+    "rank": "GOLD 1",
+    "rating": 1489.7,
     "characters": [
       "G&W"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 2
+    "wins": 15,
+    "losses": 13
   }
 }
