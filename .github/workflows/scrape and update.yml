@@ -2,7 +2,7 @@ name: Scrape and Update Data
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '0 0 * * 0' # Runs at midnight every Sunday
   workflow_dispatch:
 
 jobs:
