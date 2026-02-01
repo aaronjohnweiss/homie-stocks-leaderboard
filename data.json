@@ -3,15 +3,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1796.9,
+    "rating": 1787.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 50,
-    "losses": 36
+    "wins": 51,
+    "losses": 38
   },
   "SYS#0": {
     "name": "Syspen",
@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "tea and bikkie",
+    "name": "MG",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -100,8 +100,8 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "SILVER 1",
-    "rating": 1126.9,
+    "rank": "GOLD 1",
+    "rating": 1455.6,
     "characters": [
       "Sheik",
       "Marth",
@@ -109,12 +109,12 @@
       "Bowser"
     ],
     "percentages": [
-      "61.8",
-      "23.5",
-      "8.8",
-      "5.9"
+      "74.5",
+      "15.7",
+      "5.9",
+      "3.9"
     ],
-    "wins": 6,
+    "wins": 14,
     "losses": 8
   },
   "MELM#955": {
