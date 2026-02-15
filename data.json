@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1733.6,
+    "rank": "PLATINUM 1",
+    "rating": 1801.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 74,
-    "losses": 66
+    "wins": 82,
+    "losses": 68
   },
   "SYS#0": {
     "name": "Syspen",
@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "hi hello",
+    "name": "buddy",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -138,7 +138,7 @@
     "losses": 0
   },
   "CHZ#279": {
-    "name": "NEWPORTINHALER9",
+    "name": "newport inhaler",
     "tag": "CHZ#279",
     "rank": "SILVER 1",
     "rating": 1055.7,
