@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1843.7,
+    "rank": "PLATINUM 1",
+    "rating": 1828.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 90,
-    "losses": 72
+    "wins": 98,
+    "losses": 81
   },
   "SYS#0": {
     "name": "Syspen",
@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "DOUBLE SHINE",
+    "name": "humble moron",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -100,8 +100,8 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "GOLD 1",
-    "rating": 1455.6,
+    "rank": "SILVER 3",
+    "rating": 1425.4,
     "characters": [
       "Sheik",
       "Marth",
@@ -109,13 +109,13 @@
       "Bowser"
     ],
     "percentages": [
-      "74.5",
-      "15.7",
-      "5.9",
-      "3.9"
+      "76.8",
+      "14.3",
+      "5.4",
+      "3.6"
     ],
     "wins": 14,
-    "losses": 8
+    "losses": 10
   },
   "MELM#955": {
     "name": "Melms",
