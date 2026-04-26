@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1817.1,
+    "rank": "GOLD 1",
+    "rating": 1440.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 122,
-    "losses": 111
+    "wins": 5,
+    "losses": 3
   },
   "SYS#0": {
     "name": "Syspen",
@@ -34,7 +34,7 @@
     "losses": 0
   },
   "SLYG#681": {
-    "name": "onlyQUADScandef",
+    "name": "underwearwearer",
     "tag": "SLYG#681",
     "rank": "NONE",
     "rating": 0,
@@ -44,18 +44,14 @@
     "losses": 0
   },
   "XRCH#596": {
-    "name": "SIGMUND FOID",
+    "name": "F64.0",
     "tag": "XRCH#596",
-    "rank": "SILVER 3",
-    "rating": 1339.9,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 8,
-    "losses": 6
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "BERK#306": {
     "name": "SKBerk",
@@ -100,22 +96,12 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "SILVER 3",
-    "rating": 1432.6,
-    "characters": [
-      "Sheik",
-      "Marth",
-      "Ganon",
-      "Bowser"
-    ],
-    "percentages": [
-      "83.1",
-      "10.8",
-      "3.6",
-      "2.4"
-    ],
-    "wins": 19,
-    "losses": 16
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "MELM#955": {
     "name": "Melms",
@@ -140,31 +126,21 @@
   "CHZ#279": {
     "name": "chudcord ceo",
     "tag": "CHZ#279",
-    "rank": "SILVER 1",
-    "rating": 1055.7,
-    "characters": [
-      "Falco",
-      "Fox"
-    ],
-    "percentages": [
-      "96.8",
-      "3.2"
-    ],
-    "wins": 5,
-    "losses": 10
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "KEYF#539": {
     "name": "Chief Keyf",
     "tag": "KEYF#539",
-    "rank": "GOLD 1",
-    "rating": 1471.5,
-    "characters": [
-      "G&W"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 23,
-    "losses": 24
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   }
 }
