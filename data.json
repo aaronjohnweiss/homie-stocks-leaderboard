@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1749.3,
+    "rank": "PLATINUM 1",
+    "rating": 1752.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 23
+    "wins": 34,
+    "losses": 29
   },
   "SYS#0": {
     "name": "Syspen",
@@ -47,15 +47,15 @@
     "name": "Raven Beak",
     "tag": "XRCH#596",
     "rank": "SILVER 3",
-    "rating": 1413.5,
+    "rating": 1383.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
-    "losses": 15
+    "wins": 24,
+    "losses": 32
   },
   "BERK#306": {
     "name": "SKBerk",
@@ -92,7 +92,7 @@
     "losses": 0
   },
   "WEAB#855": {
-    "name": "Turbo A.Tachyon",
+    "name": "Dagoth Upair",
     "tag": "WEAB#855",
     "rank": "NONE",
     "rating": 0,
@@ -105,15 +105,15 @@
     "name": "Meltii",
     "tag": "MELTII#0",
     "rank": "GOLD 2",
-    "rating": 1553,
+    "rating": 1595.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
-    "losses": 17
+    "wins": 33,
+    "losses": 32
   },
   "MELM#955": {
     "name": "Melms",
@@ -136,7 +136,7 @@
     "losses": 0
   },
   "CHZ#279": {
-    "name": "OOPS ALL BOWSER",
+    "name": ".5horse .5nixon",
     "tag": "CHZ#279",
     "rank": "NONE",
     "rating": 0,
