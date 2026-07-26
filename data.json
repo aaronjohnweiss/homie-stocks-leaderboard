@@ -2,16 +2,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1755.4,
+    "rank": "GOLD 3",
+    "rating": 1708.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 39,
-    "losses": 33
+    "wins": 43,
+    "losses": 40
   },
   "SYS#0": {
     "name": "Syspen",
@@ -44,7 +44,7 @@
     "losses": 0
   },
   "XRCH#596": {
-    "name": "Raven Beak",
+    "name": "bloodbirds",
     "tag": "XRCH#596",
     "rank": "SILVER 3",
     "rating": 1383.3,
@@ -136,7 +136,7 @@
     "losses": 0
   },
   "CHZ#279": {
-    "name": ".5horse .5nixon",
+    "name": "perc ceo",
     "tag": "CHZ#279",
     "rank": "NONE",
     "rating": 0,
