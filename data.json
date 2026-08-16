@@ -3,7 +3,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1703.9,
+    "rating": 1685.4,
     "characters": [
       "Falcon"
     ],
@@ -11,7 +11,7 @@
       "100.0"
     ],
     "wins": 45,
-    "losses": 43
+    "losses": 44
   },
   "SYS#0": {
     "name": "Syspen",
@@ -46,16 +46,16 @@
   "XRCH#596": {
     "name": "bloodbirds",
     "tag": "XRCH#596",
-    "rank": "SILVER 3",
-    "rating": 1383.3,
+    "rank": "GOLD 1",
+    "rating": 1443.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 32
+    "wins": 28,
+    "losses": 33
   },
   "BERK#306": {
     "name": "SKBerk",
@@ -105,15 +105,15 @@
     "name": "Meltii",
     "tag": "MELTII#0",
     "rank": "GOLD 2",
-    "rating": 1595.7,
+    "rating": 1614.9,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
-    "losses": 32
+    "wins": 36,
+    "losses": 34
   },
   "MELM#955": {
     "name": "Melms",
@@ -136,7 +136,7 @@
     "losses": 0
   },
   "CHZ#279": {
-    "name": "perc ceo",
+    "name": "OOPS ALL BOWSER",
     "tag": "CHZ#279",
     "rank": "NONE",
     "rating": 0,
