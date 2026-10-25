@@ -2,16 +2,12 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1751.9,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 60,
-    "losses": 57
+    "rank": "GOLD 1",
+    "rating": 1442.4,
+    "characters": [],
+    "percentages": [],
+    "wins": 5,
+    "losses": 8
   },
   "SYS#0": {
     "name": "Syspen",
@@ -46,30 +42,22 @@
   "XRCH#596": {
     "name": "Cybele",
     "tag": "XRCH#596",
-    "rank": "GOLD 1",
-    "rating": 1443.1,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 28,
-    "losses": 33
+    "rank": "SILVER 3",
+    "rating": 1400.2,
+    "characters": [],
+    "percentages": [],
+    "wins": 8,
+    "losses": 10
   },
   "BERK#306": {
     "name": "SKBerk",
     "tag": "BERK#306",
-    "rank": "SILVER 3",
-    "rating": 1378,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 11,
-    "losses": 14
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PROV#815": {
     "name": "provolone",
@@ -92,7 +80,7 @@
     "losses": 0
   },
   "WEAB#855": {
-    "name": "Woke Yuri",
+    "name": "Stable Internet",
     "tag": "WEAB#855",
     "rank": "NONE",
     "rating": 0,
@@ -104,16 +92,12 @@
   "MELTII#0": {
     "name": "Meltii",
     "tag": "MELTII#0",
-    "rank": "GOLD 2",
-    "rating": 1620.3,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 38,
-    "losses": 35
+    "rank": "SILVER 1",
+    "rating": 1104.4,
+    "characters": [],
+    "percentages": [],
+    "wins": 1,
+    "losses": 6
   },
   "MELM#955": {
     "name": "Melms",
