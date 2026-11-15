@@ -52,12 +52,12 @@
   "BERK#306": {
     "name": "SKBerk",
     "tag": "BERK#306",
-    "rank": "NONE",
-    "rating": 0,
+    "rank": "GOLD 1",
+    "rating": 1490.7,
     "characters": [],
     "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "wins": 6,
+    "losses": 5
   },
   "PROV#815": {
     "name": "provolone",
@@ -80,7 +80,7 @@
     "losses": 0
   },
   "WEAB#855": {
-    "name": "Stable Internet",
+    "name": "Cough Cough",
     "tag": "WEAB#855",
     "rank": "NONE",
     "rating": 0,
